@@ -10,7 +10,7 @@
 - plotly: For interactive graphing. (Version: specify version)
 - dash: For creating the web-based dashboard. (Version: specify version)
 - jupyter: For running the Jupyter notebook. (Version: specify version)
-- (Include any other libraries and their versions used in the project)
+
 
 ## Installation Instructions
 1. Clone the repository:
