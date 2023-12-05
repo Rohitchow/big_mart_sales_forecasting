@@ -1,0 +1,39 @@
+
+# Requirements for Sales Forecasting Project
+
+## System Requirements
+- Python (Version 3.x)
+- Operating Systems: Windows, MacOS, Linux
+
+## Dependencies
+- pandas: For data manipulation and analysis. (Version: specify version)
+- plotly: For interactive graphing. (Version: specify version)
+- dash: For creating the web-based dashboard. (Version: specify version)
+- jupyter: For running the Jupyter notebook. (Version: specify version)
+- (Include any other libraries and their versions used in the project)
+
+## Installation Instructions
+1. Clone the repository:
+   ```
+   git clone [repository-url]
+   ```
+2. Navigate to the project directory:
+   ```
+   cd [project-directory]
+   ```
+3. Install the required Python libraries:
+   ```
+   pip install -r requirements.txt
+   ```
+   (Note: The `requirements.txt` file should list all necessary libraries and their versions.)
+
+## Running the Application
+1. To run the Jupyter notebook:
+   ```
+   jupyter notebook 'Sales forecasting project Final Notebook (1).ipynb'
+   ```
+2. To launch the dashboard:
+   ```
+   python final app.py
+   ```
+
